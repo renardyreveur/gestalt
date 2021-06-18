@@ -1,0 +1,19 @@
+{
+    "info": {
+        "location": "Seoul, South Korea",
+        "social": {
+            "twitter_handle": "GestaltPool",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "about": {
+            "me": "Deep Learning Research Engineer based in Seoul, South Korea. Exploring the beautiful space that Deep RL and Blockchain Networks create. Committed to the active developement and decentralisation of the Cardano Network.",
+            "server": "...",
+            "company": "..."
+        }
+    }
+}
